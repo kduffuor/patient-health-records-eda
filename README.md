@@ -4,8 +4,8 @@ We loaded, cleaned, and analyzed the data, then used charts to uncover key patte
 
 ## Steps Followed
 1. **Data Loading** – Imported CSV file with patient info.
-2. **Data Cleaning** – Handled missing values and fixed date formats.
-3. **Exploration** – Checked data shape, types, and missing columns.
+2. **Exploration** – Checked data shape, types, summary, and missing columns.
+3. **Data Cleaning** – Handled missing values and fixed date formats.
 4. **Analysis & Visualization** – Grouped and visualized by diagnosis, age, gender, and treatment.
 
 ## Key Insights
