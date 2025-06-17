@@ -1,12 +1,10 @@
 # 🩺 Healthcare Data Analysis – Mini Project (Week 3–4)
-
 This project explores a real-world healthcare dataset using Python and pandas.  
 We loaded, cleaned, and analyzed the data, then used charts to uncover key patterns.
 
 ---
 
 ## 📊 Steps Followed
-
 1. **Data Loading** – Imported CSV file with patient info.
 2. **Data Cleaning** – Handled missing values and fixed date formats.
 3. **Exploration** – Checked data shape, types, and missing columns.
