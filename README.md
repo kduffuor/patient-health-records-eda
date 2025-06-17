@@ -1,4 +1,4 @@
-# 🩺 Healthcare Data Analysis – Mini Project (Week 3–4)
+# 🩺 Healthcare Data Analysis – Project 1
 This project explores a real-world healthcare dataset using Python and pandas.  
 We loaded, cleaned, and analyzed the data, then used charts to uncover key patterns.
 
@@ -31,5 +31,3 @@ We loaded, cleaned, and analyzed the data, then used charts to uncover key patte
 - Age and gender play a big role in patient health.
 - Watch cholesterol and BMI in middle-aged and older adults.
 - Clean medical records (e.g., treatment plan) are important.
-
-> 📁 *Project completed in Jupyter Notebook as part of Python Analytics Systems coursework.*
