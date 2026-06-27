@@ -1,4 +1,4 @@
-# 🩺 Healthcare Data Analysis – Project 1
+# 🩺 Patient Health Records EDA: Diagnoses, BMI & Cholesterol Trends
 This project explores a real-world healthcare dataset using Python and pandas. The data loaded, cleaned, and analyzed, then uses charts to uncover key patterns.
 
 ## Steps Followed
@@ -19,7 +19,7 @@ This project explores a real-world healthcare dataset using Python and pandas. T
 
 ### Treatment Plans
 - **Medication** was most common.
-- Some patients had no clear treatment plan — this needs better tracking.
+- Some patients had no clear treatment plan – this needs better tracking.
 
 ### BMI, Cholesterol, Age by Diagnosis
 - **Diabetes & Hypertension**: Higher BMI and age.
